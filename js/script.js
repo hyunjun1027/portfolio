@@ -7,7 +7,7 @@ const photoArr = [  ["Aisle.png", "[Aisle]", "HTML5 / CSS / (publish)", "publish
 ["sejong.png", "[Sejong]", "HTML5 / CSS / (publish)", "publish", "https://hyunjun1027.github.io/sejong/"],
 ["Oclass.png", "[oclass]", "HTML5 / CSS / Jquery / Javacaript / PHP (publish)", "publish", "https://hyunjun1027.github.io/oclass/"],
 ["Cakecious.png", "[Cakecious]", "HTML5 / CSS / (publish)", "publish", "https://hyunjun1027.github.io/cakecious/"],
-["nu'bella.png", "[NU'BELLA]", "HTML5 / CSS / Javacaript", "publish", "https://hyunjun1027.github.io/nu-bella/"],
+["nu'bella.png", "[NU'BELLA]", "HTML5 / CSS / Javacaript / (develop)", "develop", "https://hyunjun1027.github.io/nu-bella/"],
 ];
 
 const sectionSpace = document.querySelector("#grid_system");
